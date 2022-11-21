@@ -20,6 +20,7 @@ export default function IndexRoute() {
         <h1>
           Remix <span>Jokes!</span>
         </h1>
+
         <nav>
           <ul>
             <li>
@@ -30,6 +31,7 @@ export default function IndexRoute() {
             </li>
           </ul>
         </nav>
+        <h1 className="text-3xl font-bold underline">Hello world!</h1>
       </div>
     </div>
   );
